@@ -1,8 +1,8 @@
 import React from "react";
 
-const AnimRoutes = () => {
-    return <div>AnimRoutes</div>;
+const Contact = () => {
+    return <div>Contact</div>;
 
 };
 
-export default AnimRoutes;
+export default Contact;

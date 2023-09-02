@@ -1,8 +1,8 @@
 import React from "react";
 
-const AnimRoutes = () => {
-    return <div>AnimRoutes</div>;
+const Portfolio = () => {
+    return <div>Portfolio</div>;
 
 };
 
-export default AnimRoutes;
+export default Portfolio;
