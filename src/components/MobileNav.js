@@ -35,8 +35,7 @@ const MobileNav = () => {
         </div>
 
         {/*menu */}
-        <motion.div 
-        variants={menuVariants}
+        <motion.div variants={menuVariants}
         initial='hidden'
         animate={openMenu ? 'show' : ''}
         className="bg-white shadow-2xl w-full absolute 

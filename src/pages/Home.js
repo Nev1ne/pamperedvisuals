@@ -5,6 +5,7 @@ const Home = () => {
         Home
         </section>;
 
+        
 };
 
 export default Home;
